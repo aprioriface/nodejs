@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ansi": "*",
+    "beepbeep": "*",
+    "node-color-log": "^2.2.0"
+  }
+}
